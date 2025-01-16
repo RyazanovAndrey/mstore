@@ -114,6 +114,7 @@ link.forEach(item => {
 const swiper = new Swiper('.swiper', {
 
   slidesPerView: 3,
+  spaceBetween: 20,
   loop: true,
 
   pagination: {

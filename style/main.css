@@ -165,7 +165,7 @@ img {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 485px;
+    max-width: 485px;
     padding: 40px 25px;
     background: var(--color-5);
     box-shadow: 0 0 30px #5c5c5c;
